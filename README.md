@@ -1,2 +1,3 @@
-# docker-lib-node
-Docker nodejs image based on ubuntu. 
+# NodeJS on ubuntu docker image
+
+Basic NodeJS image, no additional functionality. 
